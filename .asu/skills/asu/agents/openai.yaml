@@ -1,0 +1,4 @@
+interface:
+  display_name: "asu"
+  short_description: "生成高密度技术简历与 HR 开场白"
+  default_prompt: "用 /asu 把我的真实经历整理成强定位、项目全景、证据化的中文技术简历要点，并生成可直接发给 HR 的开场白。"
